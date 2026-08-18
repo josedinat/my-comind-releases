@@ -1,5 +1,3 @@
-# my-comind-releases
-
 # My-CoMind for Windows
 
 Downloads for the My-CoMind desktop capture agent.
@@ -17,9 +15,11 @@ your microphone.
 
 ## What it records
 
-It never starts on its own. Every recording begins with you choosing to start it,
-and while one is running the icon in the notification area is a red dot reading
-"My-CoMind is recording".
+It never starts on its own. Every recording begins with you choosing to start it.
+
+While one is running there is a window on your screen the whole time — a blinking
+red dot, how long it has recorded, and buttons to pause or stop. You never have
+to wonder whether it is still going.
 
 You choose whether to capture the whole meeting — your microphone plus the audio
 coming out of your speakers, which includes everyone else's voices — or only
